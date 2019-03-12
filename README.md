@@ -1,2 +1,4 @@
-# google-redesign
-Google redesigned UI
+# Google Re-designed
+Simple and sleek UI for Google homepage.
+
+Author : Himanshu Raj Aman
